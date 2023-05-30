@@ -8,7 +8,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=edu290386&theme=onedark" />
 </p>
 
-
+### 🔥 Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=algolia" alt="edu290386" /></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -31,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edu290386&show_icons=true&locale=en" alt="edu290386" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&" alt="edu290386" /></p>
+
