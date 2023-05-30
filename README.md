@@ -23,7 +23,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
-![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html)&nbsp;
 
-### ⚡️ Recent GitHub Activity
- <a href="https://github.com/edu290386"><img alt="Eduardo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edu290386&theme=react-dark" /></a>
+### 🧑🏼‍💻 Let's Connect
+<p align="center">
+  <a href="https://profile-web-tau.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:eduardo_torres@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/outlook.png" alt="Outlook"/></a>
+	<a href="https://github.com/edu290386"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/juan-eduardo-torres-ramos-3b930367/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
