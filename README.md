@@ -27,7 +27,7 @@
 
 ### 🧑🏼‍💻 Let's Connect
 <p align="center">
-  <a href="https://profile-web-tau.vercel.app/"><img src="https://icons8.com/icon/3rGP1Wi81DjL/landing-pages" alt="Website"/></a>
+  <a href="https://profile-web-tau.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/landing-pages.png" alt="Website"/></a>
 	<a href="mailto:eduardo_torres@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/microsoft-outlook-2019.png" alt="Gmail"/></a>
 	<a href="https://github.com/edu290386"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/juan-eduardo-torres-ramos-3b930367/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
