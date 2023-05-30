@@ -13,6 +13,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu290386&layout=compact&theme=algolia"></p>
 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=edu290386&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
+
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,8 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edu290386&show_icons=true&locale=en&layout=compact" alt="edu290386" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edu290386&show_icons=true&locale=en" alt="edu290386" /></p>
+
+
 
 
