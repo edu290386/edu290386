@@ -22,6 +22,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
+![Css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
 
+### ⚡️ Recent GitHub Activity
+ <a href="https://github.com/edu290386"><img alt="Eduardo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edu290386&theme=react-dark" /></a>
