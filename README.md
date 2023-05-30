@@ -38,7 +38,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
-![HTML5]("https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html)&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" />
+
 
 ### 🧑🏼‍💻 Let's Connect
 <p align="center">
