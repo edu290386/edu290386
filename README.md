@@ -34,11 +34,15 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
-![Css](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css)&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white" />
 
+![Css](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css)&nbsp;
+<p>
+	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-05122A?style=flat-square&logo=github-actions&logoColor=white" />
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white" />
+	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=react&logoColor=white" />
+	<img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white" />
+</p>
 
 ### 🧑🏼‍💻 Let's Connect
 <p align="center">
