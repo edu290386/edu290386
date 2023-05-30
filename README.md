@@ -31,13 +31,13 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=edu290386&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
 
 ### 🛠 Languages and Tools:
-<img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white" />
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css)&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white" />
 
 
 ### 🧑🏼‍💻 Let's Connect
