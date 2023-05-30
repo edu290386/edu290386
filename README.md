@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="center">Hi src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Eduardo</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edu290386&label=Profile%20views&color=0e75b6&style=flat" alt="edu290386" /> </p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=guillermosifu&theme=onedark" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edu290386" alt="edu290386" /></a> </p>
 
