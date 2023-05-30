@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 ### 🪚 Detail
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edu290386&label=Profile%20views&color=0e75b6&style=flat" alt="edu290386" /> </p>
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=edu290386&theme=onedark" />
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edu290386" alt="edu290386" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
