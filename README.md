@@ -9,8 +9,9 @@
 </p>
 
 ### 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=algolia" alt="edu290386" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=algolia" alt="edu290386" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu290386&layout=compact&theme=algolia"></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
