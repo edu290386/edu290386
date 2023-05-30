@@ -40,7 +40,7 @@
 	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-05122A?style=flat-square&logo=github-actions&logoColor=white" />
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" />
 	<img alt="git" src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white" />
-	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=react&logoColor=white" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=react&logoColor=white" />
 	<img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=white" />
 </p>
 
