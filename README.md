@@ -30,6 +30,10 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=edu290386&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=edu290386&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
 ### 🛠 Languages and Tools:
 
 <p>
