@@ -17,9 +17,8 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=edu290386&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ### 🛠 Languages and Tools:
