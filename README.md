@@ -17,8 +17,11 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- WakaTime -->
+<script src="https://wakatime.com/embed.js"></script>
+<wakatime>
+</wakatime>
+<!-- WakaTime end -->
 
 
 ### 🛠 Languages and Tools:
