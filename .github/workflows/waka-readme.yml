@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: anuraghazra/github-readme-stats@v1
+    - uses: edu290386/github-readme-stats@v1
       with:
         api_key: ${{ secrets.WAKATIME_API_KEY }}
-        username: ${{ secrets.GITHUB_USERNAME }}
+        username: ${{ secrets.GITHUB_USERNAME }}```
