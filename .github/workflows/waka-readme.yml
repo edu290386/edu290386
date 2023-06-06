@@ -1,21 +1,14 @@
-name: Waka Readme
-
+name: WakaTime Readme Stats
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
+  - cron: '0 0 * * *'
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: edu290386/waka-readme@main
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+    - uses: actions/checkout@v2
+    - uses: anuraghazra/github-readme-stats@v1
+      with:
+        api_key: ${{ secrets.WAKATIME_API_KEY }}
+        username: ${{ secrets.GITHUB_USERNAME }}
+    ```
