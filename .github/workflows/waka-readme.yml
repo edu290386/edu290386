@@ -11,4 +11,3 @@ jobs:
       with:
         api_key: ${{ secrets.WAKATIME_API_KEY }}
         username: ${{ secrets.GITHUB_USERNAME }}
-    ```
