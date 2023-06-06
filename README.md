@@ -17,8 +17,8 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-[![wakatime](https://wakatime.com/badge/github/edu290386/edu290386.svg)](https://wakatime.com/badge/github/edu290386/edu290386)
-https://wakatime.com/badge/github/edu290386/edu290386.svg
+[![wakatime](https://wakatime.com/badge/github/edu290386/edu290386.svg)]
+
 
 ### 🛠 Languages and Tools:
 
