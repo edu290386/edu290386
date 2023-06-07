@@ -21,6 +21,7 @@
 [![WakaTime Readme Stats](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml/badge.svg?branch=main&event=issues)](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
 <!-- This is a WakaTime widget. -->
 <script src="https://wakatime.com/embed.js"></script>
+<figure><embed src="https://wakatime.com/share/@edu290386/703f1a3e-dd4c-4af4-864a-0d76ccff9738.svg"></embed></figure>
 ### 🛠 Languages and Tools:
 
 
