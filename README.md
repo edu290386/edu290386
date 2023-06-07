@@ -22,7 +22,7 @@
 [![WakaTime Readme Stats](https://wakatime.com/share/@edu290386/af67304d-2697-4d9a-b9fa-8cb546e4cddf.svg)](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
 <!-- This is a WakaTime widget. -->
 ###
-<p align="start" ><img src="https://wakatime.com/share/@edu290386/a06856ee-95a6-4fd3-b64a-b10acfa75289.svg" width="400"</img></p>
+<p align="start" ><img src="https://wakatime.com/share/@edu290386/e984a78a-d2ad-40f3-a271-2cebf015ce97.svg" width="400"</img></p>
 
 ### 🛠 Languages and Tools:
 
