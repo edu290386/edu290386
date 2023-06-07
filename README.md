@@ -18,10 +18,9 @@
 📊 &nbsp;**This week I spent my time on**
 
 [![wakatime](https://wakatime.com/badge/user/cd7d8467-e10c-4d0b-b11b-be92485a71f3.svg)](https://wakatime.com/@cd7d8467-e10c-4d0b-b11b-be92485a71f3)
-[![WakaTime Readme Stats](https://wakatime.com/share/@edu290386/703f1a3e-dd4c-4af4-864a-0d76ccff9738.svg)](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
-<!-- This is a WakaTime widget. -->
-<script src="https://wakatime.com/embed.js"></script>
-<figure><embed src="https://wakatime.com/share/@edu290386/703f1a3e-dd4c-4af4-864a-0d76ccff9738.svg"></embed></figure>
+[![WakaTime Readme Stats](src="https://wakatime.com/share/@edu290386/af67304d-2697-4d9a-b9fa-8cb546e4cddf.svg")](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
+
+
 ### 🛠 Languages and Tools:
 
 
