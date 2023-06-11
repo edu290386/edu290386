@@ -27,7 +27,7 @@
 ### 🛠 Languages and Tools:
 
 
-<p>
+<p align="center">
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white" />
 	<img alt="github" src="https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=github&logoColor=white" />
 	<img alt="git" src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white" />
