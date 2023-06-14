@@ -16,11 +16,8 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=edu290386&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
 
 📊 &nbsp;**This week I spent my time on**
-
-[![wakatime](https://wakatime.com/badge/user/cd7d8467-e10c-4d0b-b11b-be92485a71f3.svg)](https://wakatime.com/@cd7d8467-e10c-4d0b-b11b-be92485a71f3)
 ### 
-[![WakaTime Readme Stats](https://wakatime.com/share/@edu290386/af67304d-2697-4d9a-b9fa-8cb546e4cddf.svg)](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
-<!-- This is a WakaTime widget. -->
+<p align="center" ><img src="[https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg](https://wakatime.com/share/@edu290386/ee157b1f-b3d0-4fe4-a0a1-523712ae0307.svg)" width="400"</img></p>
 ###
 <p align="center" ><img src="https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg" width="400"</img></p>
 
