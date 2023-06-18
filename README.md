@@ -17,7 +17,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 ### 
-<p align="center" ><img src="[https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg](https://wakatime.com/share/@edu290386/ee157b1f-b3d0-4fe4-a0a1-523712ae0307.svg)" width="400"</img></p>
+<p align="center" ><img src="[https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg] width="400"</img></p>
 ###
 <p align="center" ><img src="https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg" width="400"</img></p>
 
