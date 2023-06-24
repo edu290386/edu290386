@@ -18,7 +18,6 @@
 📊 &nbsp;**This week I spent my time on**
 ### 
 <p align="center" ><figure><embed src="https://wakatime.com/share/@edu290386/e5eb32cb-afbb-4d14-ba84-65f0c9341d48.svg"></embed></figure></p>
-###
 <p align="center" ><img src="https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg" width="400"</img></p>
 
 ### 🛠 Languages and Tools:
