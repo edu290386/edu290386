@@ -13,12 +13,6 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=edu290386&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
 
-📊 &nbsp;**This week I spent my time on**
-### 
-[![WakaTime Readme Stats](https://wakatime.com/share/@edu290386/af67304d-2697-4d9a-b9fa-8cb546e4cddf.svg)](https://github.com/edu290386/edu290386/actions/workflows/waka-readme.yml)
-<!-- This is a WakaTime widget. -->
-<p align="center" ><img src="https://wakatime.com/share/@edu290386/100e1dc2-ce58-4802-91d2-6d26bdefbf7d.svg" width="400"</img></p>
-
 ### 🛠 Languages and Tools:
 
 <p align="center">
