@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Eduardo</h1>
 
-### 🪚 Detail
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=edu290386&theme=onedark" />
-</p>
-
 ### 🔥 Streak Stats
 <figure><embed src="https://wakatime.com/share/@edu290386/ef6332bb-8ddd-446b-9347-9fde2a9f0584.svg"></embed></figure>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=algolia" alt="edu290386" /></p>
