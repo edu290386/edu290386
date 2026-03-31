@@ -1,13 +1,19 @@
-name: WakaTime Readme Stats
+name: WakaTime status update
+
 on:
   schedule:
-  - cron: '0 0 * * *'
+    - cron: "0 0 * * *" # Se actualiza cada noche
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
 jobs:
-  build:
+  update-readme:
+    name: Update Readme with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: edu290386/github-readme-stats@v1
-      with:
-        api_key: ${{ secrets.WAKATIME_API_KEY }}
-        username: ${{ secrets.GITHUB_USERNAME }}
+      - uses: athul/waka-readme@master # Esta es la acción que SÍ existe y funciona
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: 📋
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
