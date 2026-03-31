@@ -4,25 +4,21 @@
   <img src="https://komarev.com/ghpvc/?username=edu290386&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 📊 WakaTime Stats (Stable Server)
+### 🛠 Tech Stack & Skills
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rahuljkahlon.vercel.app/api/wakatime?username=edu290386&theme=tokyonight&layout=compact" width="450" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,py,supabase,vite,git,github,vscode" />
 </p>
 
-### 📈 GitHub Statistics
+### 📈 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats-re-alpha.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=tokyonight" width="400" />
 </p>
 
-### 🏆 My Trophies
+### 📊 WakaTime (Versión Badge - ¡No falla!)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edu290386&theme=tokyonight&no-bg=true&column=7" />
-</p>
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,py,supabase,vite,git,github,vscode" />
+  <img src="https://img.shields.io/badge/WakaTime-Total_Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/WakaTime-Daily_Average-success?style=for-the-badge&logo=wakatime&logoColor=white" />
 </p>
 
 ### 🧑🏼‍💻 Let's Connect
@@ -32,5 +28,8 @@
   </a>
   <a href="mailto:eduardo_torres@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://profile-web-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
