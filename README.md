@@ -4,14 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=edu290386&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 📊 WakaTime Stats (Alternative)
+### 📊 WakaTime Stats (Stable Server)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=edu290386&theme=tokyonight&layout=compact" width="450" />
+  <img src="https://github-readme-stats-git-master-rahuljkahlon.vercel.app/api/wakatime?username=edu290386&theme=tokyonight&layout=compact" width="450" />
 </p>
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats-re-alpha.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=tokyonight" width="400" />
 </p>
 
