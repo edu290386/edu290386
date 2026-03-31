@@ -4,15 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=edu290386&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 📊 Coding Activity (WakaTime)
+### 📊 WakaTime Stats (Alternative)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edu290386&theme=tokyonight&layout=compact&v=1" width="450" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=edu290386&theme=tokyonight&layout=compact" width="450" />
 </p>
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-one-niner.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=tokyonight" width="400" alt="Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=edu290386&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu290386&theme=tokyonight" width="400" />
+</p>
+
+### 🏆 My Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=edu290386&theme=tokyonight&no-bg=true&column=7" />
 </p>
 
 ### 🛠 Tech Stack
